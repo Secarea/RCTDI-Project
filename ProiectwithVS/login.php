@@ -23,8 +23,3 @@ while($rand=$rezultat->fetch_assoc()) //preia coloanele intr-un array
 	}
 }
 header("Location: index.php");
-
- 
-
-
-																							
